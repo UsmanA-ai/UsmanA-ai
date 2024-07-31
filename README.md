@@ -1,11 +1,30 @@
-- 👋 Hi, I’m @UsmanA-ai
-- 🚀 Passionate about Artificial Intelligence (AI)
-- 🌱 I’m currently learning Python Language
-- 👁️ Believer in Intelligence Augmentation
-- ✨ Striving to empower society with AI advancements
-- 🖼️ Art enthusiast
-- 💡 Always in pursuit of innovative ideas
-- 🌎 Believer of technology as a tool to shape a better future. 
+👋 Hi, I'm Muhammad Usman
+
+🌱 Passionate about building beautiful and functional apps. I'm deeply invested in Flutter development, crafting cross-platform experiences that delight users.
+
+💡 I have a strong foundation in Java, honed through years of exploring object-oriented programming (OOP) and data structures & algorithms (DSA). This background fuels my problem-solving skills and helps me write efficient code.
+
+🧠 As a student of Artificial Intelligence (AI), I'm fascinated by the possibilities of machine learning and intelligent systems. I'm always eager to learn and apply new techniques to create smarter applications.
+
+🛠️ Tech Stack
+
+* **Languages:** Flutter (Dart), Java, Python
+* **Frameworks/Libraries:** Flutter, Android SDK, Pandas, Metplotlib, TensorFlow/Keras (for AI projects)
+* **Tools:** Android Studio, Jupiter Notebook, VS Code, Git
+
+📚 Learning & Exploring
+
+* Actively working on expanding my Flutter expertise.
+* Deepening my knowledge of AI algorithms and models.
+* Exploring the intersection of mobile development and AI.
+
+🤝 Let's Connect
+
+I'm open to collaboration on exciting projects and always happy to discuss new ideas. Feel free to reach out!
+
+* **Email:** muhammadusman36891@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/muhammadusmanaltaf
+
 
 
 <!---
