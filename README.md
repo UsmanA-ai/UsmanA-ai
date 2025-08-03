@@ -23,7 +23,6 @@
 I'm open to collaboration on exciting projects and always happy to discuss new ideas. Feel free to reach out!
 
 * **Email:** muhammadusman36891@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/muhammadusmanaltaf
 
 
 
