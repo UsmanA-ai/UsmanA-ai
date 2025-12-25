@@ -24,6 +24,7 @@ I'm open to collaboration on exciting projects and always happy to discuss new i
 
 * **Email:** muhammadusman36891@gmail.com
 * **LinkedIn:** www.linkedin.com/in/muhammadusmanch44
+* **Kaggle:** https://www.kaggle.com/usman44m
 
 
 <!---
